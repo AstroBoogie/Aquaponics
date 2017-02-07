@@ -1,5 +1,6 @@
 body {
     margin: 0 0 0 0;
+    position: fixed;
 }
 
 @font-face { font-family: Nunito; src: url('../fonts/Nunito/Nunito-Regular.ttf'); }
