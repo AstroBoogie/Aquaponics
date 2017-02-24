@@ -1,6 +1,6 @@
 // Transition delay in seconds
-var graphTransitionTime = 8;
-var slideTransitionTime = 5;
+var graphTransitionTime = 10;
+var slideTransitionTime = 7;
 var fadeTime = 0.5;
 
 var cycleType;
