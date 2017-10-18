@@ -1,7 +1,6 @@
-Aquaponics - Data Science
-=============
+# Aquaponics - Data Science
 
-####Aquaponics Slideshow
+## Aquaponics Slideshow
 
 This slideshow demonstrates the processes of the aquaponics tank.
 
@@ -11,7 +10,7 @@ Within js/main.js, the top four lines have been reserved for easily changing the
 - The duration of each slide staying on the screen (slideTransitionTime)
 - The duration it takes to fade in and out between each slide (fadeTime)
 
-####Aquaponics Data Visualization
+## Aquaponics Data Visualization
 
 The visualizations represent five sensor data:
 
